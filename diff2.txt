@@ -1,0 +1,192 @@
+Carpeta vieja: /tmp/oldsrc/__MACOSX/Cuqqs 3105
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105: ._README.md
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105: ._ThreeOneOSFive.xcodeproj
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105: ._build_unsigned.sh
+Only in .: .gitattributes
+Only in .: .gitignore
+Only in .: CHANGELOG.md
+Only in .: LICENSE
+Only in .: README.md
+Only in .: README.vi.md
+Only in .: THIRD_PARTY_NOTICES.md
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive: ._App.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive: ._Assets.xcassets
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive: ._ContentView.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive: ._Info.plist
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive: ._ThreeOneOSFive-Bridging-Header.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive: ._en.lproj
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive: ._es.lproj
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive: ._vi.lproj
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive: ._zh-Hans.lproj
+Only in ./ThreeOneOSFive: App.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/Assets.xcassets: ._AppIcon.appiconset
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/Assets.xcassets: ._Contents.json
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/Assets.xcassets/AppIcon.appiconset: ._3C9596A5-ABD2-4306-AC20-F4FCFBEBF172.png
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/Assets.xcassets/AppIcon.appiconset: ._Contents.json
+Only in ./ThreeOneOSFive/Assets.xcassets/AppIcon.appiconset: AppIcon-1024.png
+Only in ./ThreeOneOSFive/Assets.xcassets/AppIcon.appiconset: Contents.json
+Only in ./ThreeOneOSFive/Assets.xcassets: Contents.json
+Only in ./ThreeOneOSFive: ContentView.swift
+Only in ./ThreeOneOSFive: Info.plist
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive: Patches
+Only in ./ThreeOneOSFive: ThreeOneOSFive-Bridging-Header.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/en.lproj: ._Localizable.strings
+Only in ./ThreeOneOSFive/en.lproj: Localizable.strings
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive: es.lproj
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/exploit: ._bad_query.c
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/exploit: ._bad_query.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/exploit: ._mcm_bridge.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/exploit: ._mcm_bridge.m
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/exploit: ._wallpaper_zip.c
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/exploit: ._wallpaper_zip.h
+Only in ./ThreeOneOSFive/exploit: bad_query.c
+Only in ./ThreeOneOSFive/exploit: bad_query.h
+Only in ./ThreeOneOSFive/exploit: mcm_bridge.h
+Only in ./ThreeOneOSFive/exploit: mcm_bridge.m
+Only in ./ThreeOneOSFive/exploit: wallpaper_zip.c
+Only in ./ThreeOneOSFive/exploit: wallpaper_zip.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._AntiDetection.m
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._AppIconHelper.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._AppIconHelper.m
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._AppTabNavigationState.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._CleanerCatalog.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._ContainerBrowserLogic.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._ContainerIdentityResolver.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._ContainerStore.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._DevicePatchService.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._DisplayIdentity.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._DisplayIdentity.m
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._DisplayIdentityAttribution.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._FileManagerService.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._FileOperationCoordinator.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._FileReplacementService.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._KernelExploit.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._LicenseActivationView.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._LicenseManager.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._LimitedCleanerService.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._Localization.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._MG.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._PatchDraftCoordinator.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._PatchDraftService.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._PatchKeyStore.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._PatchPackageCodec.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._PatchProjectLibrary.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._PatchProjectModels.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._PatchProjectStore.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._PatchTransaction.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._PatchWorkspaceService.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._SBX.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._SecureZIPArchive.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._SupportPolicy.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._Utils.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._WallpaperInstaller.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._WallpaperLabModels.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._WallpaperLabService.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._ZIPArchiveExtractor.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/helpers: ._ZIPArchiveWriter.swift
+Only in ./ThreeOneOSFive/helpers: AntiDetection.m
+Only in ./ThreeOneOSFive/helpers: AppIconHelper.h
+Only in ./ThreeOneOSFive/helpers: AppIconHelper.m
+Only in ./ThreeOneOSFive/helpers: AppTabNavigationState.swift
+Only in ./ThreeOneOSFive/helpers: CleanerCatalog.swift
+Only in ./ThreeOneOSFive/helpers: ContainerBrowserLogic.swift
+Only in ./ThreeOneOSFive/helpers: ContainerIdentityResolver.swift
+Only in ./ThreeOneOSFive/helpers: ContainerStore.swift
+Only in ./ThreeOneOSFive/helpers: DevicePatchService.swift
+Only in ./ThreeOneOSFive/helpers: DisplayIdentity.h
+Only in ./ThreeOneOSFive/helpers: DisplayIdentity.m
+Only in ./ThreeOneOSFive/helpers: DisplayIdentityAttribution.swift
+Only in ./ThreeOneOSFive/helpers: FileBrowserMetadata.swift
+Only in ./ThreeOneOSFive/helpers: FileManagerService.swift
+Only in ./ThreeOneOSFive/helpers: FileOperationCoordinator.swift
+Only in ./ThreeOneOSFive/helpers: FileReplacementService.swift
+Only in ./ThreeOneOSFive/helpers: KernelExploit.swift
+Only in ./ThreeOneOSFive/helpers: LimitedCleanerService.swift
+Only in ./ThreeOneOSFive/helpers: Localization.swift
+Only in ./ThreeOneOSFive/helpers: MG.swift
+Only in ./ThreeOneOSFive/helpers: PackageRepositoryModels.swift
+Only in ./ThreeOneOSFive/helpers: PackageRepositoryStore.swift
+Only in ./ThreeOneOSFive/helpers: PatchDraftCoordinator.swift
+Only in ./ThreeOneOSFive/helpers: PatchDraftService.swift
+Only in ./ThreeOneOSFive/helpers: PatchKeyStore.swift
+Only in ./ThreeOneOSFive/helpers: PatchPackageCodec.swift
+Only in ./ThreeOneOSFive/helpers: PatchProjectLibrary.swift
+Only in ./ThreeOneOSFive/helpers: PatchProjectModels.swift
+Only in ./ThreeOneOSFive/helpers: PatchProjectStore.swift
+Only in ./ThreeOneOSFive/helpers: PatchTransaction.swift
+Only in ./ThreeOneOSFive/helpers: PatchWorkspaceService.swift
+Only in ./ThreeOneOSFive/helpers: RepositoryPresentationSupport.swift
+Only in ./ThreeOneOSFive/helpers: SBX.swift
+Only in ./ThreeOneOSFive/helpers: SecureZIPArchive.swift
+Only in ./ThreeOneOSFive/helpers: SupportPolicy.swift
+Only in ./ThreeOneOSFive/helpers: Utils.swift
+Only in ./ThreeOneOSFive/helpers: WallpaperInstaller.swift
+Only in ./ThreeOneOSFive/helpers: WallpaperLabModels.swift
+Only in ./ThreeOneOSFive/helpers: WallpaperLabService.swift
+Only in ./ThreeOneOSFive/helpers: ZIPArchiveExtractor.swift
+Only in ./ThreeOneOSFive/helpers: ZIPArchiveWriter.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/kexploit: ._kexploit_opa334.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/kexploit: ._kexploit_opa334.m
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/kexploit: ._krw.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/kexploit: ._krw.m
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/kexploit: ._kutils.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/kexploit: ._kutils.m
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/kexploit: ._machine_info.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/kexploit: ._offsets.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/kexploit: ._offsets.m
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/kexploit: ._sandbox_escape.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/kexploit: ._sandbox_escape.m
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/kexploit: ._vnode.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/kexploit: ._vnode.m
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/kexploit: ._xpaci.h
+Only in ./ThreeOneOSFive/kexploit: kexploit_opa334.h
+Only in ./ThreeOneOSFive/kexploit: kexploit_opa334.m
+Only in ./ThreeOneOSFive/kexploit: krw.h
+Only in ./ThreeOneOSFive/kexploit: krw.m
+Only in ./ThreeOneOSFive/kexploit: kutils.h
+Only in ./ThreeOneOSFive/kexploit: kutils.m
+Only in ./ThreeOneOSFive/kexploit: machine_info.h
+Only in ./ThreeOneOSFive/kexploit: offsets.h
+Only in ./ThreeOneOSFive/kexploit: offsets.m
+Only in ./ThreeOneOSFive/kexploit: sandbox_escape.h
+Only in ./ThreeOneOSFive/kexploit: sandbox_escape.m
+Only in ./ThreeOneOSFive/kexploit: vnode.h
+Only in ./ThreeOneOSFive/kexploit: vnode.m
+Only in ./ThreeOneOSFive/kexploit: xpaci.h
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/vi.lproj: ._Localizable.strings
+Only in ./ThreeOneOSFive/vi.lproj: Localizable.strings
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/views: ._AppDataBrowserView.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/views: ._CleanerView.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/views: ._DesignSystem.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/views: ._FileBrowserView.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/views: ._FilesTabControls.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/views: ._FilesTabSwitcherView.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/views: ._FolderPatchSelectionView.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/views: ._LogView.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/views: ._OnboardingView.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/views: ._PatchProjectEditorView.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/views: ._PatchProjectsView.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/views: ._SettingsView.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/views: ._WallpaperLabView.swift
+Only in ./ThreeOneOSFive/views: AppDataBrowserView.swift
+Only in ./ThreeOneOSFive/views: CleanerView.swift
+Only in ./ThreeOneOSFive/views: DesignSystem.swift
+Only in ./ThreeOneOSFive/views: FileBrowserView.swift
+Only in ./ThreeOneOSFive/views: FilesTabControls.swift
+Only in ./ThreeOneOSFive/views: FilesTabSwitcherView.swift
+Only in ./ThreeOneOSFive/views: FolderPatchSelectionView.swift
+Only in ./ThreeOneOSFive/views: LogView.swift
+Only in ./ThreeOneOSFive/views: OnboardingView.swift
+Only in ./ThreeOneOSFive/views: PatchProjectEditorView.swift
+Only in ./ThreeOneOSFive/views: PatchProjectsView.swift
+Only in ./ThreeOneOSFive/views: RepositoryHomeView.swift
+Only in ./ThreeOneOSFive/views: RepositoryMarketplaceView.swift
+Only in ./ThreeOneOSFive/views: RepositorySourcesView.swift
+Only in ./ThreeOneOSFive/views: SettingsView.swift
+Only in ./ThreeOneOSFive/views: WallpaperLabView.swift
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive/zh-Hans.lproj: ._Localizable.strings
+Only in ./ThreeOneOSFive/zh-Hans.lproj: Localizable.strings
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive.xcodeproj: ._project.pbxproj
+Only in ./ThreeOneOSFive.xcodeproj: project.pbxproj
+Only in /tmp/oldsrc/__MACOSX/Cuqqs 3105/ThreeOneOSFive.xcodeproj: xcshareddata
+Only in .: docs
