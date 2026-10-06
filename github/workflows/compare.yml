@@ -1,0 +1,22 @@
+name: Compare
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: cuqqss/C-Source
+          path: old-ui
+      - run: |
+          mv old-ui /tmp/old
+          diff -rq -x .git -x .github /tmp/old . > diff.txt || true
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add diff.txt
+          git commit -m "Add diff list"
+          git push
