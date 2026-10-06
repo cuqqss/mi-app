@@ -1,0 +1,26 @@
+name: Compare2
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: cuqqss/C-Source
+          path: old-ui
+      - run: |
+          mkdir /tmp/oldsrc
+          unzip -q "old-ui/Cuqqs 3105.zip" -d /tmp/oldsrc
+          rm -rf old-ui
+          OLD=$(dirname "$(find /tmp/oldsrc -maxdepth 4 -name '*.xcodeproj' | head -1)")
+          echo "Carpeta vieja: $OLD" > diff2.txt
+          diff -rq -x .git -x .github -x github -x diff.txt -x diff2.txt "$OLD" . >> diff2.txt || true
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add diff2.txt
+          git commit -m "Add diff2"
+          git push
